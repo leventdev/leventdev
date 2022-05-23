@@ -1,7 +1,7 @@
 # :wave: Heya!
-I'm Levente, I code mostly in C#, and I'm learning web development.  
-I'm working on [PupilPay](https://pupilpay.hu/) and Snapbase.  
-
+I'm Levente, I code mostly in PHP with Laravel and C#.  
+I'm working on [PupilPay](https://pupilpay.hu/) and [DropSpace](https://github.com/leventdev/dropspace).  
+ 
 You can reach me at:
 * Email: <klevente@pupilpay.hu>  
 * Discord: twenty1gerzson#0447
