@@ -5,7 +5,7 @@ I'm working on [PupilPay](https://pupilpay.hu/) and [DropSpace](https://github.c
 You can reach me at:
 * Web: [leventdev.com](https://leventdev.com)
 * Email: <klevente@pupilpay.hu>  
-* Discord: 657907293194682378
+* Discord: leventdev#0001
 
 For PupilPay contact please use our discord server and avoid personal messages.  
 [PupilPay Discord server](https://discord.com/invite/bXu44WpFp3)
