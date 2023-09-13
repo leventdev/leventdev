@@ -1,5 +1,5 @@
 # :wave: Heya!
-I'm Levente, a student at IE University.  
+I'm Levente, a BBADBA student at IE University.  
 I code mostly in PHP and Vue with Laravel, or Next.js with React.  
 I'm working on [PupilPay](https://pupilpay.hu/) and [DropSpace](https://github.com/leventdev/dropspace), and a few other things.  
  
