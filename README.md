@@ -1,6 +1,6 @@
 # :wave: Heya!
 I'm Levente, a BBADBA student at IE University.  
-I code mostly in PHP and Vue with Laravel, or Next.js with React.  
+I code mostly in PHP with Laravel (and Vue), and i occasionally use Next.js with React and JavaScript and React Native with JavaScript.  
 I'm working on [PupilPay](https://pupilpay.hu/) and [DropSpace](https://github.com/leventdev/dropspace), and a few other things.  
  
 You can reach me at:  
